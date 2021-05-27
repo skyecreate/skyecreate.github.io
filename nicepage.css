@@ -33630,6 +33630,7 @@ a.u-link.u-text-hover-grey-90:hover {
         blockquote
         {
         border-color: #803bec;
+        color: #000000;
         }
         /** color-rules **/
 
@@ -33655,6 +33656,10 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-body-color .u-btn:active,.u-palette-1-base .u-btn:active,.u-palette-1-dark-3 .u-btn:active,.u-palette-1-dark-2 .u-btn:active,.u-palette-1-dark-1 .u-btn:active,.u-palette-1 .u-btn:active,.u-palette-1-light-1 .u-btn:active,.u-palette-1-light-2 .u-btn:active,.u-palette-2-base .u-btn:active,.u-palette-2-dark-3 .u-btn:active,.u-palette-2-dark-2 .u-btn:active,.u-palette-2-dark-1 .u-btn:active,.u-palette-2 .u-btn:active,.u-palette-2-light-1 .u-btn:active,.u-palette-3-base .u-btn:active,.u-palette-3-dark-3 .u-btn:active,.u-palette-3-dark-2 .u-btn:active,.u-palette-3-dark-1 .u-btn:active,.u-palette-3 .u-btn:active,.u-palette-3-light-1 .u-btn:active,.u-palette-4-base .u-btn:active,.u-palette-4-dark-3 .u-btn:active,.u-palette-4-dark-2 .u-btn:active,.u-palette-4-dark-1 .u-btn:active,.u-palette-4 .u-btn:active,.u-palette-4-light-1 .u-btn:active,.u-palette-5-base .u-btn:active,.u-palette-5-dark-3 .u-btn:active,.u-palette-5-dark-2 .u-btn:active,.u-palette-5-dark-1 .u-btn:active,.u-palette-5 .u-btn:active,.u-grey-40 .u-btn:active,.u-grey-30 .u-btn:active,.u-grey-90 .u-btn:active,.u-grey-80 .u-btn:active,.u-grey-75 .u-btn:active,.u-black .u-btn:active,.u-grey-70 .u-btn:active,.u-grey-60 .u-btn:active,.u-grey-50 .u-btn:active,.u-grey-dark-3 .u-btn:active,.u-grey-dark-2 .u-btn:active,.u-grey-dark-1 .u-btn:active,.u-grey .u-btn:active,.u-shading .u-btn:active,.u-overlap-contrast .u-header .u-btn:active
         {
         background-color: #d6bef9;
+        color: #ffffff;
+        }
+        .u-body-color blockquote,.u-palette-1-base blockquote,.u-palette-1-dark-3 blockquote,.u-palette-1-dark-2 blockquote,.u-palette-1-dark-1 blockquote,.u-palette-1 blockquote,.u-palette-1-light-1 blockquote,.u-palette-1-light-2 blockquote,.u-palette-2-base blockquote,.u-palette-2-dark-3 blockquote,.u-palette-2-dark-2 blockquote,.u-palette-2-dark-1 blockquote,.u-palette-2 blockquote,.u-palette-2-light-1 blockquote,.u-palette-3-base blockquote,.u-palette-3-dark-3 blockquote,.u-palette-3-dark-2 blockquote,.u-palette-3-dark-1 blockquote,.u-palette-3 blockquote,.u-palette-3-light-1 blockquote,.u-palette-4-base blockquote,.u-palette-4-dark-3 blockquote,.u-palette-4-dark-2 blockquote,.u-palette-4-dark-1 blockquote,.u-palette-4 blockquote,.u-palette-4-light-1 blockquote,.u-palette-5-base blockquote,.u-palette-5-dark-3 blockquote,.u-palette-5-dark-2 blockquote,.u-palette-5-dark-1 blockquote,.u-palette-5 blockquote,.u-grey-40 blockquote,.u-grey-30 blockquote,.u-grey-90 blockquote,.u-grey-80 blockquote,.u-grey-75 blockquote,.u-black blockquote,.u-grey-70 blockquote,.u-grey-60 blockquote,.u-grey-50 blockquote,.u-grey-dark-3 blockquote,.u-grey-dark-2 blockquote,.u-grey-dark-1 blockquote,.u-grey blockquote,.u-shading blockquote,.u-overlap-contrast .u-header blockquote:not(.u-nav-link):not(.u-btn)
+        {
         color: #ffffff;
         }
         /** alt-color-rules **/
@@ -33734,6 +33739,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-1 {
   width: 417px;
+  background-image: none;
   margin: 49px auto;
 }
 @media (max-width: 1199px) {
